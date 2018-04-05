@@ -8,5 +8,5 @@ Greenhouse Sensors
 ## Contact
 #### Marni Duffy
 * Homepage: [Marni](http://marnibuilds.com)
-* e-mail:
+* e-mail: marniduffy@gmail.com
 * Twitter: [@marnibrewster](https://twitter.com/marnibrewster "marnibrewster on twitter")
