@@ -38,9 +38,9 @@ def read_temp():
       temperature_location = 'Greenhouse1'
 
       data = {'data':date_mmddyyyy,'time':time_hhmmss, 'value':temp_f}
-      result = requests.post(firebase_url + '/' + temperature_location + '/te$
+      result = requests.post(firebase_url + '/' + temperature_location + '/'
 
-      print 'Record inserted. result code = ' + str(result.status_code) + ','$
+      print 'Record inserted. result code = ' + str(result.status_code) + ','
       return temp_f
 
 while True:
