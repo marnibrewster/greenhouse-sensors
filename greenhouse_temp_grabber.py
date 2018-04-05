@@ -6,7 +6,7 @@ import time
 import requests
 import json
 
-firebase_url = "https://greenhouse-temp-and-humidity.firebaseio.com/"
+firebase_url = "YOUR URL HERE"
 
 
 os.system('modprobe w1-gpio')
