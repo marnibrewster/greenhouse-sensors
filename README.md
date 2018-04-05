@@ -2,11 +2,6 @@ Greenhouse Sensors
 ======
 **Greenhouse Sensors* is a script for getting my sensors to send data via WiFi to a Firebase db.
 
-```
-$ ./script parameter1 .. parameterN
- Output
-$
-```
 ## Version
 * Version 0.1
 
