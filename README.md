@@ -11,6 +11,5 @@ Results: no :)
 
 ## Contact
 #### Marni Duffy
-* Homepage: [Marni](http://marnibuilds.com)
 * e-mail: marnibrewster@gmail.com
 * Twitter: [@marnibrewster](https://twitter.com/marnibrewster "marnibrewster on twitter")
